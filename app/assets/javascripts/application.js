@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require angular-ui-bootstrap-tpls
 
 //= require_tree ./app/scripts/
 //= require_tree ./app/scripts/controllers
