@@ -81,7 +81,7 @@
 ./app/assets/javascripts/node_modules/grunt-svgmin/node_modules/svgo/node_modules/js-yaml/node_modules/.bin/esparse
 ./app/assets/javascripts/node_modules/grunt-svgmin/node_modules/svgo/node_modules/.bin/js-yaml
 ./app/assets/javascripts/node_modules/grunt-svgmin/node_modules/.bin/svgo
-/app/assets/javascripts/app/templates
+./app/assets/javascripts/app/templates
 ./app/assets/javascripts/node_modules/grunt-contrib-cssmin/node_modules/.bin/cleancss
 ./app/assets/javascripts/node_modules/grunt-contrib-watch/node_modules/tiny-lr/node_modules/noptify/node_modules/.bin/nopt
 ./app/assets/javascripts/node_modules/grunt-contrib-watch/node_modules/.bin/tiny-lr
