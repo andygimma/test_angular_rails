@@ -1,13 +1,19 @@
 'use strict';
 
-angular.module('javascriptsApp', [])
+angular.module('javascriptsApp', ['ngRoute'])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'views/main.html',
+        templateUrl: '../templates/main.html',
+        controller: 'MainCtrl'
+      })
+      .when('/test', {
+        templateUrl: '../templates/post.html',
         controller: 'MainCtrl'
       })
       .otherwise({
         redirectTo: '/'
       });
   });
+
+  
